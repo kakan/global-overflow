@@ -1,5 +1,10 @@
-Global-Overflow
+About Global-Overflow
 =========
+Global-Overflow is a stack overflow clone aimed towards people playing the game "Counter-strike:Global Offensive".
+There are currently alot of unknown buggs due to this being in early beta. 
+If you however still want to sample this clone follow the instructions below and you will have your own "Global-overflow" installed in notime.
+
+This site is based on the anaxMVC template which you can read more about below.
 
 About AnaxMVC
 =========
@@ -38,7 +43,7 @@ The following external modules are included and subject to its own license.
 About Global-Overflow
 -----------------------------------
 Global-Overflow is a stack overflow clone aimed towards people playing the game "Counter-strike:Global Offensive".
-There are currently alot of uknown buggs due to this being in early beta. 
+There are currently alot of unknown buggs due to this being in early beta. 
 If you however still want to sample this clone follow the instructions below and you will have your own "Global-overflow" installed in notime.
 
 Instructions 
