@@ -1,0 +1,70 @@
+.select_25 {
+	float: left;
+	width: 50px;
+	margin: 0;
+	padding: 0;
+	border:0;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #FBB829;
+	font-style: none;
+	text-decoration: none;
+}
+
+h3 {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	border-bottom:1px solid;
+}
+h2{
+border-bottom:1px solid;
+}
+
+.tag {
+	background-color:black;
+}
+
+input {
+	width: 400px;
+	text-align: center;
+	margin: 5px;
+}
+
+textarea {
+	width: 400px;
+	text-align: center;
+	margin: 5px;
+}
+
+#flash {
+  text-align: center;
+  width: 100%;
+}
+#flash > div {
+  height: 66px;
+  margin: 0 auto;
+  line-height: 66px;
+}
+#flash .default,
+#flash .info {
+  background: #abdef6;
+  color: #00bdd8;
+}
+#flash .success {
+  background: #11ea2a;
+  color: #00bdd8;
+}
+#flash .warning {
+  background: #ea6f7b;
+  color: #00bdd8;
+}
+#flash .error {
+  background: #ec0018;
+  color: #00bdd8;
+}
+
+body {
+	margin: 0;
+}
