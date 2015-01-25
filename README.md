@@ -1,9 +1,10 @@
 Global-Overflow
 =========
 
-A PHP-based and MVC-inspired (micro) framework / webbtemplate / boilerplate for websites and webbapplications.
+About AnaxMVC
+=========
 
-Read article about it here: ["Anax som MVC-ramverk"](http://dbwebb.se/kunskap/anax-som-mvc-ramverk) and here ["Bygg en me-sida med Anax-MVC"](http://dbwebb.se/kunskap/bygg-en-me-sida-med-anax-mvc). 
+A PHP-based and MVC-inspired (micro) framework / webbtemplate / boilerplate for websites and webbapplications.
 
 Builds upon Anax-base, read article about Anax-base ["Anax - en h�llbar struktur f�r dina webbapplikationer"](http://dbwebb.se/kunskap/anax-en-hallbar-struktur-for-dina-webbapplikationer) to get an overview of its none-MVC variant. 
 
